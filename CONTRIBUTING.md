@@ -61,7 +61,7 @@ If you're interested in:
 - Creating a `customGPT` or symbolic agent based on LRM
 - Porting LRM to another field or codebase
 
-Open an [Issue](https://github.com/yourname/large-reality-model/issues) or start a Discussion — symbolic collaboration is always welcome.
+Open an [Issue](<REPO_URL>/issues) or start a Discussion — symbolic collaboration is always welcome.
 
 ---
 
