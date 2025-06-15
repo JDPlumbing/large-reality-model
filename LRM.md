@@ -19,8 +19,8 @@ Originally developed to simulate multi-scale tool usage (Zoom logic), LRM has si
 
 ## 🔑 Core Constructs
 
-| Term          | Symbolic Function                  | Type                     | Description                                                                                             |
-| ------------- | ---------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| Term | Symbolic Function | Type | Description |
+| --- | --- | --- | --- |
 | **Tension**   | `T = ∂Z / ∂S(t)`                   | Function / Scalar Field  | Rate of change in Zoom awareness relative to local context (Spacetime). High T = internal misalignment. |
 | **Metaquery** | `M(t) = metaquery(t)`              | Recursive Function       | Inner semantic probe — “What should I solve?”                                                           |
 | **Return 1**  | `∫M(t) → LoopEnd`                  | Symbol / Boolean / Event | Successful ritual closure or semantic resolution.                                                       |
