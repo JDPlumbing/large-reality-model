@@ -1,11 +1,11 @@
 # 🌀 Large Reality Model (LRM) – Whitepaper
 
-> **Title:**  
+> **Title:**
 **The Large Reality Model (LRM): A Symbolic Framework for Recursive Cognition, Abstraction, and Ritual Closure**
 
-> **Author:**  
-JD (@JDPlumbing)  
-Origin: Diagnostic logic from Drippy (2025)  
+> **Author:**
+JD (@JDPlumbing)
+Origin: Diagnostic logic from Drippy (2025)
 License: Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)
 
 ---
@@ -38,10 +38,10 @@ LRM models each problem or behavior as a **loop** — driven by internal questio
 
 ## 🔍 Use Cases
 
-- 🧠 Modeling **cognitive architecture** for AI or agents  
-- 🛠 Designing **tool rituals**, workflows, and decision trees  
-- 🎮 Simulating **gameplay loops**, progression, or symbolic NPC logic  
-- 📚 Structuring **narratives**, archetypes, and resolution patterns  
+- 🧠 Modeling **cognitive architecture** for AI or agents
+- 🛠 Designing **tool rituals**, workflows, and decision trees
+- 🎮 Simulating **gameplay loops**, progression, or symbolic NPC logic
+- 📚 Structuring **narratives**, archetypes, and resolution patterns
 - 📿 Mapping **spiritual practices**, self-awareness, or growth arcs
 
 ---
@@ -49,13 +49,13 @@ LRM models each problem or behavior as a **loop** — driven by internal questio
 ## 💡 Philosophy
 
 LRM is format-agnostic. It can be used to interpret:
-- YouTube videos  
-- Story arcs  
-- Repair rituals  
-- Personal growth  
-- Symbolic dreams  
-- AI cognition loops  
-- Narrative or gameplay behavior  
+- YouTube videos
+- Story arcs
+- Repair rituals
+- Personal growth
+- Symbolic dreams
+- AI cognition loops
+- Narrative or gameplay behavior
 
 The agent, question, and tension may vary — but the loop structure is universal.
 
@@ -63,20 +63,20 @@ The agent, question, and tension may vary — but the loop structure is universa
 
 ## 🔗 Project Files
 
-- [`LRM.md`](./LRM.md): Formal glossary of symbolic constructs  
-- [`EXAMPLES.md`](./EXAMPLES.md): Symbolic walkthroughs of ritual loops  
-- [`README.md`](./README.md): Project overview and purpose  
+- [`LRM.md`](./LRM.md): Formal glossary of symbolic constructs
+- [`EXAMPLES.md`](./EXAMPLES.md): Symbolic walkthroughs of ritual loops
+- [`README.md`](./README.md): Project overview and purpose
 - [`LICENSE`](./LICENSE): CC BY-NC 4.0 — remix freely, no commercial use without permission
 
 ---
 
 ## 🚧 Roadmap
 
-- [ ] Build visual feedback diagrams (`Zoom → Ritual → Return`)  
-- [ ] Create symbolic agent playground (LRM agents in YAML or JSON)  
-- [ ] Integrate LRM with GPT-style models as a recursive reasoning layer  
-- [ ] Publish extended paper with diagrams, schema, and live ritual maps  
-- [ ] Build interactive frontend for LRM loop visualization  
+- [ ] Build visual feedback diagrams (`Zoom → Ritual → Return`)
+- [ ] Create symbolic agent playground (LRM agents in YAML or JSON)
+- [ ] Integrate LRM with GPT-style models as a recursive reasoning layer
+- [ ] Publish extended paper with diagrams, schema, and live ritual maps
+- [ ] Build interactive frontend for LRM loop visualization
 
 ---
 
@@ -84,7 +84,7 @@ The agent, question, and tension may vary — but the loop structure is universa
 
 Want to help expand or implement this model?
 
-Open a GitHub Issue or reach out to:  
-📧 admin@JDPlumbingSoFlo.com  
+Open a GitHub Issue or reach out to:
+📧 admin@JDPlumbingSoFlo.com
 💬 or via your preferred metaphysical conduit
 
